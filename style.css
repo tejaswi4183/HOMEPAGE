@@ -1,0 +1,103 @@
+nav{
+    background-color:rgb(165, 4, 4);
+   
+}
+
+#navbar{
+    margin-right:300px ;
+    color:white;
+    font-style:bold;
+    margin-left:20px;
+}
+.nav-item a{
+    color: white;
+}
+li{
+    margin-right:20px;
+   
+}
+#ul-item{
+    color:white;
+}
+#details{
+    display:flex;
+    flex-direction:row ;
+}
+#logo{
+    width:70px;
+    margin-left:80px;
+    margin-right:100px;
+}
+#heading{
+    text-align:center;
+    margin-top:5px;
+    color:rgb(165, 4, 4);
+}
+#head{
+    font-weight:bold;
+}
+
+marquee{
+    font-weight:bold;
+    color:rgb(7, 3, 61);
+    margin-top:-5px;
+    font-size: 17px;;
+    margin-bottom:5px;
+}
+#img1{
+    text-align:center;
+}
+.chancellor{
+    margin-left:100px;
+    margin-top:20px;
+    width:500px;
+    height:400px;
+    background-color:rgb(250, 245, 245);
+    border: 1px solid rgb(102, 169, 245);
+
+}
+.chance{
+    width:auto;
+    height:40px;
+    background-color:rgb(95, 95, 250);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding:8.5px;
+    margin-bottom: 10px;;
+}
+.data{
+    line-height: 27px;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.data img{
+    width:150px;
+    float: right;
+}
+.data p,h4,h5{
+    margin:10px;
+    justify-content: center;
+}
+.footer{
+    height:80px;
+    background:rgb(11, 11, 43);
+    padding:20px;
+    margin-top:20px;
+    color:white;
+}
+.icon{
+  margin-left:50px;
+    font-size:30px;
+
+}
+.footer a{
+    text-decoration: none;
+    color:white;
+}
+.footer a:hover{
+    color: blue;
+    cursor: pointer;
+}
